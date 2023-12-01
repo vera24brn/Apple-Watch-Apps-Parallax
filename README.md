@@ -2,7 +2,7 @@
 
 Welcome to the Apple Watch Apps Parallax project—a sophisticated blend of elegant design, captivating parallax effects, and an interactive UI inspired by Apple Watch aesthetics. Immerse yourself in a visually delightful experience as icons gracefully respond to your every move.
 
-Apple Watch Apps Parallax Preview image [image]https://github.com/vera24brn/Apple-Watch-Apps-Parallax/blob/master/background_image.png
+Apple Watch Apps Parallax Preview image [image]https://github.com/vera24brn/Apple-Watch-Apps-Parallax/blob/master/preview_Apple_Watch_Apps_Parallax.png
 
 
 ## Libraries Used
